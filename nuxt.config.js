@@ -1,4 +1,8 @@
 export default {
+  target: 'static',
+  static: {
+    prefix: false
+  },
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     title: 'nuxt-starter-kit',
@@ -39,5 +43,7 @@ export default {
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
-  }
+  },
+
+  buildDir: "dist"
 }
