@@ -41,7 +41,7 @@ ul,li{
 #visual{
     width: 100%;
     height: 500px;
-    background-image: url("~/unnamed.webp");
+    background-image: url("https://lh3.googleusercontent.com/fife/AAWUweXVH6VBTHzoNdgG7U2Ye5NZmRpDrUFK_n5jLHwpNmAWiF4PflyD8Fk9_Qs7b_nC-Nqb2ISQI2SM7p6Gj-m53ViRvc6RJ4c6r39-tW9hXMSU98CR-1ZTesu5FMI7xOD9AL7RoA1ZPpdPznf_px5rBGR68o_7jnr4qQtEge9M4tdYwpHULg6TnR_6QsllRnzhS-6WH9EKVuehXiuQgi8Zzac64CB_EERJwrwiF3LcaLp8h8_fUP9_zRzGT5m12hH6PrjpGlEymZ_zfShtbctswXwj6X5Dl5xh7Cb2LNtOPNoN6UwY-xDOvDPxezTQOy9yAq2CyUvX-MObYweOBBtTRbLHdCALNLYyHT3us7RP_bX45F3s1ZaiBGKtiH3-h23rOd7u2OCJApKvQEK78aMi2xPKIyGRUBZQ4nr3uMaMLgEa0FPg3DYixRaGZ36EvgJhYx8kdPKFYY1Wb9Ygblu3wCpiVBGUlog1c8ANT81BuOpyJeH761X4mjbHrfA__tS3bNMK128Vns482PJu-EQ4wqhy1vZIIrU66dv0ouHjOsLVHCsUO5c2fED3ir6aN4aL5oG8va0_lI-tQIZyDjgPQaBXHN79BELgIIsU9KSOtJyGEDVSfaI7UqPiPJKvffb2knim4vZk98eYJY11UM8SNwJDQCUmtQYgvF7g4x8dLEHXo9ZGkwIcUb9KqlaL4u0nWWBiikYF5rJrU67qP_fDPBMfApe6uTihHwSC6LNFqtNdui82LkU3jqO-BLPBtSln_nFL-ks79JoCw1SsomQ=w640-h400-k");
     background-size: cover;
     background-position: center center;
     background-attachment:fixed;
@@ -60,7 +60,7 @@ ul,li{
     width: 200px;
     height: 280px;
     margin: 0 auto;
-    background-image: url('~/unnamed.webp');
+    background-image: url('https://lh3.googleusercontent.com/fife/AAWUweXVH6VBTHzoNdgG7U2Ye5NZmRpDrUFK_n5jLHwpNmAWiF4PflyD8Fk9_Qs7b_nC-Nqb2ISQI2SM7p6Gj-m53ViRvc6RJ4c6r39-tW9hXMSU98CR-1ZTesu5FMI7xOD9AL7RoA1ZPpdPznf_px5rBGR68o_7jnr4qQtEge9M4tdYwpHULg6TnR_6QsllRnzhS-6WH9EKVuehXiuQgi8Zzac64CB_EERJwrwiF3LcaLp8h8_fUP9_zRzGT5m12hH6PrjpGlEymZ_zfShtbctswXwj6X5Dl5xh7Cb2LNtOPNoN6UwY-xDOvDPxezTQOy9yAq2CyUvX-MObYweOBBtTRbLHdCALNLYyHT3us7RP_bX45F3s1ZaiBGKtiH3-h23rOd7u2OCJApKvQEK78aMi2xPKIyGRUBZQ4nr3uMaMLgEa0FPg3DYixRaGZ36EvgJhYx8kdPKFYY1Wb9Ygblu3wCpiVBGUlog1c8ANT81BuOpyJeH761X4mjbHrfA__tS3bNMK128Vns482PJu-EQ4wqhy1vZIIrU66dv0ouHjOsLVHCsUO5c2fED3ir6aN4aL5oG8va0_lI-tQIZyDjgPQaBXHN79BELgIIsU9KSOtJyGEDVSfaI7UqPiPJKvffb2knim4vZk98eYJY11UM8SNwJDQCUmtQYgvF7g4x8dLEHXo9ZGkwIcUb9KqlaL4u0nWWBiikYF5rJrU67qP_fDPBMfApe6uTihHwSC6LNFqtNdui82LkU3jqO-BLPBtSln_nFL-ks79JoCw1SsomQ=w640-h400-k');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
