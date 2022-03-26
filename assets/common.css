@@ -153,6 +153,9 @@ ul,li{
     background: black;
     padding: 50px 0;
 }
+.carousel-list .carousel-slides .carousel-slide{
+    width: 196!important;
+}
 /* gallery */
 #gallery{
     margin: 100px 0 170px;
