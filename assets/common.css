@@ -41,7 +41,7 @@ ul,li{
 #visual{
     width: 100%;
     height: 500px;
-    background-image: url("/assets/unnamed.webp");
+    background-image: url("~/assets/unnamed.webp");
     background-size: cover;
     background-position: center center;
     background-attachment:fixed;
@@ -60,7 +60,7 @@ ul,li{
     width: 200px;
     height: 280px;
     margin: 0 auto;
-    background-image: url('/assets/unnamed.webp');
+    background-image: url('~/assets/unnamed.webp');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
